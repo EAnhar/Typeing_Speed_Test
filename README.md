@@ -1,5 +1,5 @@
 # Typeing Speed Test
-## Python Project for IT315 Course
+** Python Project for IT315 Course
 
 # Prepared
 ## Prepared for: Dr. Afaf Alsalmi.
