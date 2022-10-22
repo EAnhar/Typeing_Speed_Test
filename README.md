@@ -1,9 +1,11 @@
 # Typeing Speed Test
-** Python Project for IT315 Course
+**Python Project for IT315 Course**
 
 # Prepared
-## Prepared for: Dr. Afaf Alsalmi.
-## Prepared by:
+
+**Prepared for:** *Dr. Afaf Alsalmi.* <br> <br>
+
+**Prepared by:**
 - 
 - 
 - 
@@ -17,3 +19,13 @@ Therefore, this program was designed, which requires entering the employee’s n
 And to facilitate the manager, he can know the fastest employees through the dashboard, which includes the employee's number and the total points he obtained from previous tests.
 
 # sample Otput
+![Start Page](<img width="803" alt="Screen Shot 1444-03-27 at 1 09 08 AM" src="https://user-images.githubusercontent.com/73385631/197364345-abf5c383-ed75-4542-9ee4-32ec854db911.png">
+)
+![Dash Board Page](<img width="983" alt="Screen Shot 1444-03-27 at 1 11 02 AM" src="https://user-images.githubusercontent.com/73385631/197364359-523c58ab-1b5f-44ba-9cbc-b49e882d2ae0.png">
+)
+![Wrong message when ID in not correct](<img width="778" alt="Screen Shot 1444-03-27 at 1 09 40 AM" src="https://user-images.githubusercontent.com/73385631/197364410-3981677a-710c-443f-9965-3a0fe2cf12c0.png">
+)
+![Test Page](<img width="796" alt="Screen Shot 1444-03-27 at 1 11 51 AM" src="https://user-images.githubusercontent.com/73385631/197364427-4aad7d4e-47e9-4620-aa63-7fe4b02bdb53.png">
+)
+![Result](<img width="796" alt="Screen Shot 1444-03-27 at 1 12 34 AM" src="https://user-images.githubusercontent.com/73385631/197364434-784ac774-c480-4c53-833c-7bde9460f705.png">
+)
