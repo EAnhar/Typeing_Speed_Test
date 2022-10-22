@@ -4,12 +4,13 @@
 # Prepared
 
 **Prepared for:** *Dr. Afaf Alsalmi.* <br> <br>
-**Prepared by:**
-- 
-- 
-- 
-- 
--
+
+**Prepared by:** <br>
+• <br>
+• <br>
+• <br>
+• <br>
+• <br>
 # Idea
 A software development and systems analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need typing speed.
 
