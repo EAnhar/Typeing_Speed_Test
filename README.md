@@ -5,12 +5,13 @@
 
 **Prepared for:** *Dr. Afaf Alsalmi.* <br> <br>
 
-**Prepared by:** <br>
-• <br>
-• <br>
-• <br>
-• <br>
-• <br>
+**Prepared by:** <br> 
+- Areen Abdullah Alquayid  |  411201957
+- Anhar yousef Aldosary    |  411201886
+- Joud saleh alhammad      |  391202612
+- Hutof Hamad Alsweed      |  392206418
+- Shaden Abdullah Almutawa |  411202045
+
 # Idea
 A software development and systems analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need typing speed.
 
