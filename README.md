@@ -13,7 +13,7 @@
 - Shaden Abdullah Almutawa |  411202045
 
 # Idea
-A software development and systems analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need a fast typing speed.
+A software development and system analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need a fast typing speed.
 
 Therefore, this program was designed. it requires entering the employee’s number and choosing the level of the test, and they will be able to know the number of words they will write per minute, if their speed continues in this way, as well as the points they obtained and the time taken to perform the test.
 
