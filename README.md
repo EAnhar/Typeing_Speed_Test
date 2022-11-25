@@ -13,11 +13,11 @@
 - Shaden Abdullah Almutawa |  411202045
 
 # Idea
-A software development and systems analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need typing speed.
+A software development and systems analysis company requests the preparation of a program to test the speed of its employees, to transfer them to departments that need a fast typing speed.
 
-Therefore, this program was designed, which requires entering the employee’s number and choosing the level of the test, and he will be able to know the number of words he will write per minute if his speed continues in this way, as well as the points he obtained and the time taken to perform the test.
+Therefore, this program was designed. it requires entering the employee’s number and choosing the level of the test, and they will be able to know the number of words they will write per minute, if their speed continues in this way, as well as the points they obtained and the time taken to perform the test.
 
-And to facilitate the manager, he can know the fastest employees through the dashboard, which includes the employee's number and the total points he obtained from previous tests.
+And to facilitate the manager, they can know the fastest employees through the dashboard, which includes the employee's number and the total points they obtained from previous tests.
 
 # Sample Output
 1- Start Page <br> <img width="803" src="https://user-images.githubusercontent.com/73385631/197364345-abf5c383-ed75-4542-9ee4-32ec854db911.png">
